@@ -15,8 +15,8 @@ Welcome to my 100-day journey of mastering Python! This repository contains my d
 | Day | Topic / Task 
 |-----|--------------
 | 1   | Variables, Data Types, Input/Output 
-| 2   | Conditionals and Loops 
-| 3   | Functions and Scope 
+| 2   | Data Types 
+| 3   | Conditional(if,else,elif), Logical(and,or,not)  
 | ... | ...
 | ... | ...
 | ... | ...
