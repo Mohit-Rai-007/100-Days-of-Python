@@ -14,11 +14,11 @@ Welcome to my 100-day journey of mastering Python! This repository contains my d
 
 | Day | Topic / Task 
 |-----|--------------
-| 1   | Variables, Data Types, Input/Output 
-| 2   | Data Types 
+| 1   | Variables, Data Types, Input/Output, Project: Band Name Generator
+| 2   | Data Types, Project: Tip Calculator
 | 3   | Conditional(if,else,elif), Logical(and,or,not)  
-| 4   | Random Module, Lists
-| ... | ...
+| 4   | Random Module, Lists, Project:Rock Paper And Scissor game
+| 5   | For Loops, Range Function, Project: Password Generator
 | ... | ...
 | ... | ...
 | ... | ...
